@@ -15,6 +15,7 @@ Projet d'analyse de données du dataset **DataCo Supply Chain**, couvrant les qu
 Power BI, DAX, Python (Jupyter Notebook)
 
 ## Contenu du dépôt
+- `BI file` : analyse et tableau de bord
 - `notebook.ipynb` : analyse et modèle prédictif en Python
 - `data/` : jeux de données
 - `README.md` : présentation du projet
